@@ -1,5 +1,5 @@
 project: rnshah9/mayhem-aqcc
-target: playground
+target: as
 
 cmds:
   - cmd: /aqcc/as/as @@ output
