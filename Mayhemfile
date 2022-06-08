@@ -1,5 +1,5 @@
-project: rnshah9/mayhem-aqcc
+project: aqcc
 target: as
 
 cmds:
-  - cmd: /aqcc/as/as @@ output
+  - cmd: /aqcc/as/as @@ /dev/null
