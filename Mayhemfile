@@ -2,4 +2,4 @@ project: aqcc
 target: as
 
 cmds:
-  - cmd: /aqcc/as/as @@ /dev/null
+  - cmd: /as @@ /dev/null
